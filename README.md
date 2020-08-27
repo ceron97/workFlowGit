@@ -2,7 +2,7 @@
 
 lista de aprendices
 
-
-Yorgueson Matasea Tangarife
+Brian Fabian sanchez
 oscar armando godoy
+Yorgueson Matasea Tangarife
 
