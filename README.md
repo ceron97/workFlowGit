@@ -12,3 +12,4 @@ Brian Fabian sanchez
 oscar armando godoy
 Yorgueson Matasea Tangarife
 Jorge Andrés Cerón Peñaloza
+Jesus Enrique Rodriguez mendoza
