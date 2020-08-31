@@ -6,7 +6,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 - [x] Mencionar a los demas compañeros que realicen una sincronización a sus repositorios locales
 - [x] Se revisará que los repositorios locales esten sincronizados con cambios aleatorios que se realizaran en el **origin/master**
 - [x] Note el estilo de los titulos.
-- [x] Los nombres solo deben ser escritos en mayúscula inicial
+- [x] Los nombres deben ser escritos en mayúscula inicial
 
 
 ### LISTA DE APRENDICES
