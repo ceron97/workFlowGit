@@ -22,4 +22,5 @@ Jorge Andrés Cerón Peñaloza
 Jesus Enrique Rodriguez mendoza
 Santiago Collantes Nieto
 Dario Steven Henao 
+* David Alejandro Galeano
 
