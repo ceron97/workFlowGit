@@ -11,7 +11,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 
 ### LISTA DE APRENDICES
 
-* JUAN CAMILO MAHECHA
+* Juan Camilo Peña Mahecha
 * Kevin Holguin
 * edwin andrs morales jaramillo
 * Diego Alaxander Salazar Ortiz
