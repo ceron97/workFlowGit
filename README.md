@@ -21,9 +21,10 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Jorge Andrés Cerón Peñaloza
 * Jesus Enrique Rodriguez mendoza
 * Santiago Collantes Nieto
-* Dario Steven Henao 
+* Dario Steven Henao Salazar
 * David Alejandro Galeano
 * Juan David Dominguez Viafara 
 * Jairo Felipe Nieto Ruiz
 * Juan Pablo Paz Valencia
+
 
