@@ -1,10 +1,6 @@
 # workFlowGit
 
-<<<<<<< HEAD
 lista de aprendices
-
-Johan gomez
-=======
 Se requiere lo siguiente _(cualquier desarrollador listado)_
 - [x] Verificar sobre marckdown en *GitHub* recurso en [Guia Markdown!](https://guides.github.com/features/mastering-markdown/)
 - [x] Escribir los nombres en lista no ordenada (colocar un asterisco antes del nombre)
@@ -29,7 +25,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Dario Steven Henao 
 * David Alejandro Galeano
 * Juan David Dominguez Viafara 
-* **Johan andres gomez**
+* Johan Andres Gomez
 
 
 >>>>>>> ca6ff1b50efd2776e255050b64a867df62d80afc
