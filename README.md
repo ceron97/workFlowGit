@@ -24,5 +24,6 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Dario Steven Henao 
 * David Alejandro Galeano
 * Juan David Dominguez Viafara 
+* Jairo Felipe Nieto Ruiz
 
 
