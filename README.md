@@ -16,7 +16,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * edwin andrs morales jaramillo
 * Diego Alexander Salazar Ortiz
 * Brian Fabian sanchez
-* oscar armando godoy
+* Oscar Armando Godoy
 * Yorgueson Matasea Tangarife
 * Jorge Andrés Cerón Peñaloza
 * Jesus Enrique Rodriguez mendoza
