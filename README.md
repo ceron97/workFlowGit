@@ -29,7 +29,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Jairo Felipe Nieto Ruiz
 * Juan Pablo Paz Valencia
 * David Alexander Caicedo Salazar
-* Juan Daniel Rivera Cruz
 * Sebastian Trujillo Calero
+* Juan Daniel Rivera Cruz
 
 
