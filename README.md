@@ -26,5 +26,6 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Juan David Dominguez Viafara 
 * Jairo Felipe Nieto Ruiz
 * Juan Pablo Paz Valencia
+* Juan Daniel Rivera Cruz
 
 
