@@ -28,5 +28,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Johan Andres Gomez
 * Jairo Felipe Nieto Ruiz
 * Juan Pablo Paz Valencia
+* David Alexander Caicedo Salazar
 * Juan Daniel Rivera Cruz
+
 
