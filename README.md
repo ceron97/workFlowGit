@@ -12,20 +12,19 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 
 ### LISTA DE APRENDICES
 
-* JUAN CAMILO MAHECHA
+* Juan Camilo Peña Mahecha
 * Kevin Holguin
 * edwin andrs morales jaramillo
-* Diego Alaxander Salazar Ortiz
+* Diego Alexander Salazar Ortiz
 * Brian Fabian sanchez
-* oscar armando godoy
+* Oscar Armando Godoy
 * Yorgueson Matasea Tangarife
 * Jorge Andrés Cerón Peñaloza
 * Jesus Enrique Rodriguez mendoza
 * Santiago Collantes Nieto
-* Dario Steven Henao 
+* Dario Steven Henao Salazar
 * David Alejandro Galeano
 * Juan David Dominguez Viafara 
 * Johan Andres Gomez
-
-
->>>>>>> ca6ff1b50efd2776e255050b64a867df62d80afc
+* Jairo Felipe Nieto Ruiz
+* Juan Pablo Paz Valencia
