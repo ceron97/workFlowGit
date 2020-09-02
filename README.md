@@ -14,7 +14,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 
 * Juan Camilo Peña Mahecha
 * Kevin Holguin
-* edwin andrs morales jaramillo
+* Edwin Andres Morales Jaramillo
 * Diego Alexander Salazar Ortiz
 * Brian Fabian sanchez
 * Oscar Armando Godoy

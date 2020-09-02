@@ -1,0 +1,123 @@
+*   [33m1260739[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31mfork/master[m[33m, [m[1;31mfork/HEAD[m[33m)[m Merge pull request #20 from Mitnait12/persona
+[31m|[m[32m\[m  
+[31m|[m *   [33m8024db2[m Merge branch 'master' into persona
+[31m|[m [33m|[m[31m\[m  
+[31m|[m [33m|[m[31m/[m  
+[31m|[m[31m/[m[33m|[m   
+* [33m|[m   [33m965e8d7[m Merge pull request #18 from Nieto35/persona
+[35m|[m[36m\[m [33m\[m  
+[35m|[m * [33m|[m [33mbd57b9c[m Se adiciono el nombre Jairo Felipe Nieto
+[35m|[m[35m/[m [33m/[m  
+* [33m|[m [33mca6ff1b[m Se edita la descripción del ultimo ítem
+* [33m|[m [33m994b45d[m Se colocan viñetas a cada uno de los listados y se reorganizan los nombres
+* [33m|[m   [33m7bcfac5[m Merge pull request #16 from dominguez94/persona
+[1;31m|[m[1;32m\[m [33m\[m  
+[1;31m|[m * [33m\[m   [33m10eb370[m Merge branch 'master' into persona
+[1;31m|[m [1;33m|[m[1;34m\[m [33m\[m  
+[1;31m|[m * [1;34m|[m [33m|[m [33m88a94cd[m se adiciono el nombre Juan David Dominguez Viafara
+* [1;34m|[m [1;34m|[m [33m|[m   [33m7f3c9e8[m Merge pull request #17 from DaviDix117/persona
+[1;34m|[m[1;36m\[m [1;34m\[m [1;34m\[m [33m\[m  
+[1;34m|[m [1;36m|[m[1;34m_[m[1;34m|[m[1;34m/[m [33m/[m  
+[1;34m|[m[1;34m/[m[1;36m|[m [1;34m|[m [33m|[m   
+[1;34m|[m * [1;34m|[m [33m|[m [33m3e3d75c[m se adiciono el nombre David Alejandro Galeano
+[1;34m|[m[1;34m/[m [1;34m/[m [33m/[m  
+* [1;34m|[m [33m|[m [33mf1aad5b[m actualización del archivo README con formato MarkDown
+* [1;34m|[m [33m|[m   [33m9fc72c3[m Merge pull request #15 from SantiagoCollantes/persona
+[31m|[m[32m\[m [1;34m\[m [33m\[m  
+[31m|[m * [1;34m\[m [33m\[m   [33mf659bad[m Merge branch 'master' into persona
+[31m|[m [33m|[m[31m\[m [1;34m\[m [33m\[m  
+[31m|[m [33m|[m[31m/[m [1;34m/[m [33m/[m  
+[31m|[m[31m/[m[33m|[m [1;34m|[m [33m|[m   
+* [33m|[m [1;34m|[m [33m|[m   [33maddc3a3[m Merge pull request #14 from Mitnait12/persona
+[35m|[m[36m\[m [33m\[m [1;34m\[m [33m\[m  
+[35m|[m [36m|[m * [1;34m|[m [33m|[m [33me957c72[m Se añadio el nombre Santiago Collantes Nieto
+[35m|[m [36m|[m[35m/[m [1;34m/[m [33m/[m  
+[35m|[m[35m/[m[36m|[m [1;34m|[m [33m|[m   
+[35m|[m [36m|[m [1;34m|[m * [33mbb98109[m Actualizar nombre Dario Steven Henao Salazar con los requimientos, por ejemplo el asterisco
+[35m|[m [36m|[m [1;34m|[m[36m/[m  
+[35m|[m [36m|[m[36m/[m[1;34m|[m   
+[35m|[m * [1;34m|[m [33m077dfc4[m añadido Dario Steven Henao
+[35m|[m * [1;34m|[m [33mfb03ae6[m aprendiz Dario Steven Henao Salazar añadido
+[35m|[m[35m/[m [1;34m/[m  
+* [1;34m|[m   [33m1ae3769[m Merge pull request #12 from Jesus-Enrique/persona
+[1;31m|[m[1;32m\[m [1;34m\[m  
+[1;31m|[m * [1;34m|[m [33m0791c9f[m se adiciono el nombre: Jesus Enrique Rodriguez Mendoza
+[1;31m|[m[1;31m/[m [1;34m/[m  
+* [1;34m|[m   [33m21fc3d1[m Merge pull request #11 from ceron97/persona
+[1;33m|[m[1;34m\[m [1;34m\[m  
+[1;33m|[m * [1;34m|[m [33m2187dc3[m Se adiciono el nombre jorge ceron
+[1;33m|[m * [1;34m|[m [33m4e906d3[m Se adiciono el nombre jorge andres ceron
+[1;33m|[m * [1;34m|[m   [33m2d33212[m Se adiciono el nombre jorge andres ceron
+[1;33m|[m [1;35m|[m[1;33m\[m [1;34m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [1;34m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [1;34m|[m   
+* [1;35m|[m [1;34m|[m   [33m8c99dc2[m Merge pull request #8 from Juan-hacker/persona
+[31m|[m[32m\[m [1;35m\[m [1;34m\[m  
+[31m|[m * [1;35m\[m [1;34m\[m   [33mcc7be01[m Merge branch 'master' into persona
+[31m|[m [33m|[m[31m\[m [1;35m\[m [1;34m\[m  
+[31m|[m [33m|[m[31m/[m [1;35m/[m [1;34m/[m  
+[31m|[m[31m/[m[33m|[m [1;35m|[m [1;34m|[m   
+[31m|[m * [1;35m|[m [1;34m|[m [33me51f3c1[m se adiciono el nombre juan camilo mahecha
+[31m|[m * [1;35m|[m [1;34m|[m [33m7ab39e4[m Se adiciono el nombre Juan camilo mahecha
+[31m|[m [1;34m|[m [1;35m|[m[1;34m/[m  
+[31m|[m [1;34m|[m[1;34m/[m[1;35m|[m   
+[31m|[m [1;34m|[m * [33mbca742f[m Se adiciono el nombre jorge andres ceron
+[31m|[m [1;34m|[m[31m/[m  
+[31m|[m[31m/[m[1;34m|[m   
+* [1;34m|[m   [33mc4d99f5[m Merge pull request #9 from KevinHolguinG/persona
+[35m|[m[36m\[m [1;34m\[m  
+[35m|[m * [1;34m\[m   [33mc1fe83a[m Merge branch 'master' into persona
+[35m|[m [1;31m|[m[35m\[m [1;34m\[m  
+[35m|[m [1;31m|[m[35m/[m [1;34m/[m  
+[35m|[m[35m/[m[1;31m|[m [1;34m|[m   
+* [1;31m|[m [1;34m|[m   [33m9939264[m Merge pull request #7 from xedwiny/persona
+[1;33m|[m[1;34m\[m [1;31m\[m [1;34m\[m  
+[1;33m|[m * [1;31m\[m [1;34m\[m   [33mabc4dc3[m Merge branch 'master' into persona
+[1;33m|[m [1;35m|[m[1;33m\[m [1;31m\[m [1;34m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [1;31m/[m [1;34m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [1;31m|[m [1;34m|[m   
+* [1;35m|[m [1;31m|[m [1;34m|[m   [33m2647208[m Merge pull request #5 from DiegoPy3/persona
+[31m|[m[32m\[m [1;35m\[m [1;31m\[m [1;34m\[m  
+[31m|[m * [1;35m\[m [1;31m\[m [1;34m\[m   [33m2cde742[m Merge branch 'master' into persona
+[31m|[m [33m|[m[31m\[m [1;35m\[m [1;31m\[m [1;34m\[m  
+[31m|[m [33m|[m[31m/[m [1;35m/[m [1;31m/[m [1;34m/[m  
+[31m|[m[31m/[m[33m|[m [1;35m|[m [1;31m|[m [1;34m|[m   
+* [33m|[m [1;35m|[m [1;31m|[m [1;34m|[m   [33m66b3cc3[m Merge pull request #3 from Brianx998/pesona
+[35m|[m[36m\[m [33m\[m [1;35m\[m [1;31m\[m [1;34m\[m  
+[35m|[m * [33m\[m [1;35m\[m [1;31m\[m [1;34m\[m   [33mbd57471[m Merge branch 'master' into pesona
+[35m|[m [1;31m|[m[35m\[m [33m\[m [1;35m\[m [1;31m\[m [1;34m\[m  
+[35m|[m [1;31m|[m[35m/[m [33m/[m [1;35m/[m [1;31m/[m [1;34m/[m  
+[35m|[m[35m/[m[1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [1;34m|[m   
+* [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [1;34m|[m   [33mb7f1918[m Merge pull request #2 from Yorgueson/Persona
+[1;33m|[m[1;34m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m [1;34m\[m  
+[1;33m|[m * [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m [1;34m\[m   [33m027b659[m Merge branch 'master' into Persona
+[1;33m|[m [1;35m|[m[1;33m\[m [1;31m\[m [33m\[m [1;35m\[m [1;31m\[m [1;34m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m [1;31m/[m [33m/[m [1;35m/[m [1;31m/[m [1;34m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [1;34m|[m   
+[1;33m|[m * [1;31m|[m [33m|[m [1;35m|[m [1;31m|[m [1;34m|[m [33mf602519[m Se adiciono el nombre Yorgueson Matasea Tangarife
+[1;33m|[m [1;34m|[m [1;31m|[m[1;34m_[m[33m|[m[1;34m_[m[1;35m|[m[1;34m_[m[1;31m|[m[1;34m/[m  
+[1;33m|[m [1;34m|[m[1;34m/[m[1;31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[1;33m|[m [1;34m|[m * [33m|[m [1;35m|[m [1;31m|[m   [33mc03098a[m Merge branch 'master' into pesona
+[1;33m|[m [1;34m|[m [31m|[m[1;33m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[1;33m|[m [1;34m|[m[1;33m_[m[31m|[m[1;33m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[1;33m|[m[1;33m/[m[1;34m|[m [31m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[1;33m|[m [1;34m|[m * [33m|[m [1;35m|[m [1;31m|[m [33mba8ce1c[m se adiciono el nombre brian fabian sanchez
+[1;33m|[m [1;34m|[m[1;34m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[1;33m|[m [1;34m|[m * [1;35m|[m [1;31m|[m   [33m756315d[m Merge branch 'master' into persona
+[1;33m|[m [1;34m|[m [33m|[m[1;33m\[m [1;35m\[m [1;31m\[m  
+[1;33m|[m [1;34m|[m[1;33m_[m[33m|[m[1;33m/[m [1;35m/[m [1;31m/[m  
+[1;33m|[m[1;33m/[m[1;34m|[m [33m|[m [1;35m|[m [1;31m|[m   
+* [1;34m|[m [33m|[m [1;35m|[m [1;31m|[m   [33mfa3db05[m Merge pull request #1 from Godoy87/personas
+[1;34m|[m[36m\[m [1;34m\[m [33m\[m [1;35m\[m [1;31m\[m  
+[1;34m|[m [36m|[m[1;34m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[1;34m|[m[1;34m/[m[36m|[m [33m|[m [1;35m|[m [1;31m|[m   
+[1;34m|[m * [33m|[m [1;35m|[m [1;31m|[m [33m3906c84[m se le adiciono el nombre oscar armando godoy
+[1;34m|[m[1;34m/[m [33m/[m [1;35m/[m [1;31m/[m  
+[1;34m|[m * [1;35m/[m [1;31m/[m [33mf47dcda[m Se adiciono el nombre de Diego Alexander Salazar Ortiz
+[1;34m|[m[1;34m/[m [1;35m/[m [1;31m/[m  
+[1;34m|[m * [1;31m/[m [33m52ce8e4[m Se adiciono nombre Edwin Andrs morales
+[1;34m|[m[1;34m/[m [1;31m/[m  
+[1;34m|[m * [33m0e2edc5[m añadi el nombre de Kevin Holguin
+[1;34m|[m[1;34m/[m  
+* [33m2262225[m Update README.md
+* [33mc35511c[m Initial commit
