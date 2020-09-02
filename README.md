@@ -1,5 +1,6 @@
 # workFlowGit
 
+lista de aprendices
 Se requiere lo siguiente _(cualquier desarrollador listado)_
 - [x] Verificar sobre marckdown en *GitHub* recurso en [Guia Markdown!](https://guides.github.com/features/mastering-markdown/)
 - [x] Escribir los nombres en lista no ordenada (colocar un asterisco antes del nombre)
@@ -24,7 +25,6 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Dario Steven Henao Salazar
 * David Alejandro Galeano
 * Juan David Dominguez Viafara 
+* Johan Andres Gomez
 * Jairo Felipe Nieto Ruiz
 * Juan Pablo Paz Valencia
-
-
