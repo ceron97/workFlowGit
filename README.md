@@ -30,9 +30,8 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Juan Pablo Paz Valencia
 * David Alexander Caicedo Salazar
 * Sebastian Trujillo Calero
-* Brayan Alexis Luna Luna
 * Juan Daniel Rivera Cruz
-
+* Brayan Alexis Luna Luna
 
 
 
