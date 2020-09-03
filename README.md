@@ -13,7 +13,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 ### LISTA DE APRENDICES
 
 * Juan Camilo Peña Mahecha
-* Kevin Holguin
+* Kevin Andre Holguin Garcia
 * Edwin Andres Morales Jaramillo
 * Diego Alexander Salazar Ortiz
 * Brian Fabian sanchez
