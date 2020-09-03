@@ -31,6 +31,8 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * David Alexander Caicedo Salazar
 * Sebastian Trujillo Calero
 * Juan Daniel Rivera Cruz
+* Brayan Alexis Luna Luna
 * Fabian Andres Almanza
+
 
 
