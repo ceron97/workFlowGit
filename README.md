@@ -10,6 +10,7 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 - [x] Los nombres deben ser escritos en mayúscula inicial
 
 
+
 ### LISTA DE APRENDICES
 
 * Juan Camilo Peña Mahecha
@@ -33,6 +34,8 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Juan Daniel Rivera Cruz
 * Brayan Alexis Luna Luna
 * Fabian Andres Almanza
+
+# FIN DE LA TAREA BIEN HECHO TODOS
 
 
 
