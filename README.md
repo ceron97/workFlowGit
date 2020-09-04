@@ -35,7 +35,5 @@ Se requiere lo siguiente _(cualquier desarrollador listado)_
 * Brayan Alexis Luna Luna
 * Fabian Andres Almanza
 
-# FIN DE LA TAREA BIEN HECHO TODOS
-
 
 
